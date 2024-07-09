@@ -1,0 +1,15 @@
+body{
+    background: rgb(1,0,36);
+background: linear-gradient(90deg, rgba(1,0,36,1) 13%, rgba(9,119,121,1) 37%, rgba(109,32,219,1) 83%);
+}
+
+#logo_img{
+    width: 180px;
+    height: 180px;
+    border-radius: 90px;
+}
+#camera,#foto{
+    border-radius: 20px;
+    border-style: outset;
+    
+}
