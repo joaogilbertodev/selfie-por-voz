@@ -8,9 +8,15 @@ background: linear-gradient(90deg, rgba(1,0,36,1) 13%, rgba(9,119,121,1) 37%, rg
     height: 180px;
     border-radius: 90px;
 }
-#camera,#foto{
+#camera{
     border-radius: 20px;
     border-style: outset;
-    width: 360px;
-    height: 250px;
+    width: 400px;
+    height: 300px;
+}
+#foto{
+    border-radius: 20px;
+    border-style: outset;
+    width: 400px;
+    height: 280px;
 }
